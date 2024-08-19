@@ -24,7 +24,7 @@ C) For Fan load torque condition
 1.	Open the simulation file SEPICFANLT.slx through MATLAB
 2.	Run the file for 11 seconds
 3.	open the scope (FAN TYPE LOAD TORQUE PROFILE) which is highlighted in BLUE colour (Fig.8.)
-4.	open the scope (COMBINED SPEED) which is highlighted in ORANGE colour (Fig.8.)
+4.	open the scope (COMBINED SPEED) which is highlighted in ORANGE colour (Fig.9.)
 
 D) For Propeller load torque condition
 1.	Open the simulation file SEPICPROPELLERLT.slx through MATLAB
